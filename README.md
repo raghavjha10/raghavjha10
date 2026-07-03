@@ -43,7 +43,7 @@
   <a href="https://www.linkedin.com/in/raghav-k-a75586290" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:raghavjha10@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=raghavjha10@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/raghavjha10" target="_blank">
@@ -104,7 +104,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raghavjha10&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="Trophies"/>
+  <img src="https://github-trophies.devomb.com/?username=raghavjha10&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="Trophies"/>
 </p>
 
 ---
@@ -198,7 +198,7 @@ Other        18 mins        ░░░░░░░░░░░░░░░░░�
 ### 📬 Reach Me Anytime
 
 [![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghav-k-a75586290)
-[![Email](https://img.shields.io/badge/-Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raghavjha10@gmail.com)
+[![Email](https://img.shields.io/badge/-Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=raghavjha10@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://raghavkumarjha.netlify.app/)
 
 </div>
