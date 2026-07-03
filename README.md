@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20👋%20I'm%20Raghav&fontSize=60&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20AI%20Enthusiast&descAlignY=58&descAlign=50&animation=fadeIn&stroke=58A6FF&strokeWidth=1" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20👋%20I'm%20Raghav&fontSize=60&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20MERN%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descAlign=50&animation=fadeIn&stroke=58A6FF&strokeWidth=1" width="100%"/>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Building+the+Web%2C+One+Component+at+a+Time;DSA+%7C+MERN+%7C+AI+%26+ML;Turning+Coffee+%26+Code+into+Clean+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Software+Engineer+%7C+Full+Stack+MERN;Building+the+Web%2C+One+Component+at+a+Time;DSA+%7C+MERN+%7C+AI+%26+ML;Turning+Coffee+%26+Code+into+Clean+Solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/raghav-k-a75586290" target="_blank">
+  <a href="https://www.linkedin.com/in/raghav-k-a75586290" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:raghavjha10@gmail.com">
@@ -49,10 +49,10 @@
   <a href="https://github.com/raghavjha10" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/https://leetcode.com/u/raghavjha10/" target="_blank">
+  <a href="https://leetcode.com/u/raghavjha10/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://github.com/raghavjha10" target="_blank">
+  <a href="https://raghavkumarjha.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
@@ -197,9 +197,9 @@ Other        18 mins        ░░░░░░░░░░░░░░░░░�
 
 ### 📬 Reach Me Anytime
 
-[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghav-k-a75586290)
 [![Email](https://img.shields.io/badge/-Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raghavjha10@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/raghavjha10)
+[![Portfolio](https://img.shields.io/badge/-Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://raghavkumarjha.netlify.app/)
 
 </div>
 
